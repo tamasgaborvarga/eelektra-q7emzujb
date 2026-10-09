@@ -1,5 +1,5 @@
-:HL["/eelektra-q7emzujb/_next/static/chunks/213kwgvv25462.css","style"]
+:HL["/eelektra-q7emzujb/_next/static/chunks/194xh2saf6lc1.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"technologia","h":64,"c":"$Q2"}]]
-0:{"b":"fR8XD3G-up2NoEr6RakiE","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"2FaT2el7kLqGshas9YLWe","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
