@@ -1,5 +1,5 @@
-:HL["/eelektra-q7emzujb/_next/static/chunks/410hssirfvyb8.css","style"]
+:HL["/eelektra-q7emzujb/_next/static/chunks/1qehfrf3-kgxb.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"rolunk","h":64,"c":"$Q2"}]]
-0:{"b":"dKe4V9i_pxnfpZ8X7-vVB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"trmkX6ffrWJ8UsDmTAgmp","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
