@@ -1,4 +1,4 @@
-:HL["/eelektra-q7emzujb/_next/static/chunks/1qehfrf3-kgxb.css","style"]
+:HL["/eelektra-q7emzujb/_next/static/chunks/12tydx7vhd700.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"trmkX6ffrWJ8UsDmTAgmp","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"afR4sZZFh6uFlkSuC-r-z","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
