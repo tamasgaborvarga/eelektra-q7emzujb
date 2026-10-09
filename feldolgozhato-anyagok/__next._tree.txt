@@ -1,0 +1,5 @@
+:HL["/eelektra-q7emzujb/_next/static/chunks/071t85e95qnfw.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"feldolgozhato-anyagok","h":64,"c":"$Q2"}]]
+0:{"b":"p-DQEKuECsj89l-9FvJHG","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
